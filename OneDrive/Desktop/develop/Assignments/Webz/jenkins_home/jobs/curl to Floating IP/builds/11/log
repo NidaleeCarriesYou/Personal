@@ -1,0 +1,5 @@
+Started by timer
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/curl to Floating IP
+[curl to Floating IP] $ /bin/bash /tmp/jenkins12178099636969389529.sh
+Finished: SUCCESS
